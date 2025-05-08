@@ -1,2 +1,2 @@
-# API-fetch
-using HTML CSS 
+# Fetch-API
+Using: JSON, HTML, CSS, JS
